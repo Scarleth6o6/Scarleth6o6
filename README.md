@@ -30,11 +30,11 @@
 
 ## 📌 Proyectos Destacados  
 
-🔹 **[Análisis de ventas de videojuegos](https://github.com/tuusuario/proyecto-videojuegos)** → Exploración de datos, tendencias de mercado y visualización de ventas en distintas regiones.  
+🔹 **[Análisis de ventas de videojuegos](https://github.com//Scarleth6o6/proyecto_seguros)** → Exploración de datos, tendencias de mercado y visualización de ventas en distintas regiones.  
 
-🔹 **[Clasificación de clientes de Megaline](https://github.com/tuusuario/proyecto-megaline)** → Modelo de clasificación para recomendar planes de telefonía basados en patrones de uso.  
+🔹 **[Clasificación de clientes de Megaline](https://github.com/Scarleth6o6/proyecto_seguros)** → Modelo de clasificación para recomendar planes de telefonía basados en patrones de uso.  
 
-🔹 **[Predicción de prestaciones de seguro](https://github.com/tuusuario/proyecto-seguros)** → Modelos de Machine Learning aplicados a la predicción y protección de datos en una aseguradora.  
+🔹 **[Predicción de prestaciones de seguro](https://github.com/Scarleth6o6/proyecto_seguros)** → Modelos de Machine Learning aplicados a la predicción y protección de datos en una aseguradora.  
 
 ## 🌍 Conéctate conmigo  
 
