@@ -1,16 +1,54 @@
-# 👋 ¡Hola! Soy Scarleth San Martin
+👩‍💻 About Me
+Hello! I'm Scarleth, a Software Developer with a strong passion for Data Science and Machine Learning. I specialize in working with Python, PHP, SQL, C#, Java, and JavaScript. I also have experience with front-end development using HTML and CSS.
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de software con experiencia en **C#, .NET, Java, Python, JavaScript y PHP**, además de conocimientos en **Data Science y Machine Learning**. Me apasiona la resolución de problemas a través del código y el análisis de datos para tomar decisiones informadas.  
+I'm constantly learning and staying up to date with the latest technologies to enhance my skills. In addition to technical expertise, I pride myself on my soft skills like problem-solving, teamwork, adaptability, and the ability to work under pressure.
 
-## 🚀 Sobre mí  
+🛠️ Technologies I Work With
+Languages:
 
-- 🎓 Recientemente completé un **bootcamp de Data Science**, donde desarrollé proyectos aplicando **Machine Learning, análisis de datos y visualización**.  
-- 💻 Tengo experiencia en **desarrollo de software**, administración de bases de datos con **MySQL** y gestión de servidores en entornos **Windows Server y Linux CentOS**.  
-- 🏆 Me gusta asumir nuevos desafíos, aprender de forma autodidacta y trabajar en equipo para encontrar soluciones eficientes.  
+Python
+PHP
+JavaScript
+Java
+C#
+SQL
+Frameworks & Libraries:
 
-## 🛠️ Tecnologías y Herramientas  
+Django, Flask
+React, Node.js
+Pandas, NumPy, Matplotlib, Seaborn (for Data Science)
+Scikit-learn (for Machine Learning)
+Bootstrap (for responsive design)
+Tools:
 
-💻 **Lenguajes de programación:**  
+Git/GitHub
+Docker
+SQL Databases (MySQL)
+NoSQL (MongoDB)
+Frontend:
+
+HTML5
+CSS3
+JavaScript (Vanilla, React)
+
+📚 Projects
+Here are some of the key projects I’ve worked on:
+
+Predictive Modeling and Business Metrics Evaluation with Bootstraping
+Predictive models applied to the optimization of business metrics using bootstrapping to enhance decision-making in oil well analysis.
+
+Megaline Customer Behavior Analysis
+Analyzing customer data to determine which prepaid tariff generates the most revenue for Megaline, with a focus on exploring key business metrics.
+
+🎯 Skills and Interests
+Machine Learning & Data Science: Data exploration, predictive modeling, and business optimization.
+Web Development: Building responsive, dynamic websites using front-end technologies and integrating them with powerful back-end systems.
+Problem Solving: Tackling complex problems with efficient, scalable solutions.
+Teamwork & Communication: Working collaboratively to achieve project goals, while learning and growing as a team member.
+🌱 What I'm Currently Learning
+I'm currently deepening my knowledge of Machine Learning techniques and algorithms, exploring advanced Python libraries for data analysis, and continuously working on projects to improve my full-stack development skills.
+
+Feel free to check out my repositories and contact me if you'd like to collaborate or discuss any of my projects! 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
@@ -21,26 +59,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 
-🗄️ **Bases de Datos:**  
+🗄️ **Datos Base:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ⚡ **Otros:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-
-## 📌 Proyectos Destacados  
-
-🔹 **[Análisis de ventas de videojuegos](https://github.com//Scarleth6o6/proyecto_seguros)** → Exploración de datos, tendencias de mercado y visualización de ventas en distintas regiones.  
-
-🔹 **[Modelado Predictivo y Evaluación de Métricas de Negocio con Bootstraping](https://github.com/Scarleth6o6/proyecto_pozos_petroleros)** →  Aplicación de modelos de Machine Learning y bootstraping para la predicción y optimización de resultados, con el objetivo de mejorar métricas clave de negocio en el análisis de pozos petroleros.
-
-🔹 **[Predicción de prestaciones de seguro](https://github.com/Scarleth6o6/proyecto_seguros)** → Modelos de Machine Learning aplicados a la predicción y protección de datos en una aseguradora.  
-
-## 🌍 Conéctate conmigo  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scarleth-san-martin)  
-[![Correo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smsanmartinlepin@gmail.com)  
-
----
-
-¡Siempre estoy abierto a colaborar en proyectos interesantes! 🚀 No dudes en contactarme.  
