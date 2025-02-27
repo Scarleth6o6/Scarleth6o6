@@ -32,7 +32,7 @@
 
 🔹 **[Análisis de ventas de videojuegos](https://github.com//Scarleth6o6/proyecto_seguros)** → Exploración de datos, tendencias de mercado y visualización de ventas en distintas regiones.  
 
-🔹 **[Clasificación de clientes de Megaline](https://github.com/Scarleth6o6/proyecto_seguros)** → Modelo de clasificación para recomendar planes de telefonía basados en patrones de uso.  
+🔹 **[Modelado Predictivo y Evaluación de Métricas de Negocio con Bootstraping](https://github.com/Scarleth6o6/proyecto_pozos_petroleros)** →  Aplicación de modelos de Machine Learning y bootstraping para la predicción y optimización de resultados, con el objetivo de mejorar métricas clave de negocio en el análisis de pozos petroleros.
 
 🔹 **[Predicción de prestaciones de seguro](https://github.com/Scarleth6o6/proyecto_seguros)** → Modelos de Machine Learning aplicados a la predicción y protección de datos en una aseguradora.  
 
