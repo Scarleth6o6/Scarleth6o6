@@ -25,14 +25,13 @@ Languages:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
-📚 Projects
+## 📚 Projects
+  
 Here are some of the key projects I’ve worked on:
 
-Predictive Modeling and Business Metrics Evaluation with Bootstraping
-Predictive models applied to the optimization of business metrics using bootstrapping to enhance decision-making in oil well analysis.
+- **[Predictive Modeling and Business Metrics Evaluation with Bootstraping](https://github.com/Scarleth6o6/proyecto_pozos_petroleros)**  
+   Predictive models applied to the optimization of business metrics using bootstrapping to enhance decision-making in oil well analysis.
 
-Megaline Customer Behavior Analysis
-Analyzing customer data to determine which prepaid tariff generates the most revenue for Megaline, with a focus on exploring key business metrics.
 
 🎯 Skills and Interests
 
