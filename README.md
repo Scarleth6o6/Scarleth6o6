@@ -1,10 +1,10 @@
-##👩‍💻 About Me
+## 👩‍💻 About Me
 
 Hello! I'm Scarleth, a Software Developer with a strong passion for Data Science and Machine Learning. I specialize in working with Python, PHP, SQL, C#, Java, and JavaScript. I also have experience with front-end development using HTML and CSS.
 
 I'm constantly learning and staying up to date with the latest technologies to enhance my skills. In addition to technical expertise, I pride myself on my soft skills like problem-solving, teamwork, adaptability, and the ability to work under pressure.
 
-##🛠️ Technologies I Work With
+## 🛠️ Technologies I Work With
 
 Languages:
 
@@ -33,14 +33,14 @@ Here are some of the key projects I’ve worked on:
    Predictive models applied to the optimization of business metrics using bootstrapping to enhance decision-making in oil well analysis.
 
 
-##🎯 Skills and Interests
+## 🎯 Skills and Interests
 
 Machine Learning & Data Science: Data exploration, predictive modeling, and business optimization.
 Web Development: Building responsive, dynamic websites using front-end technologies and integrating them with powerful back-end systems.
 Problem Solving: Tackling complex problems with efficient, scalable solutions.
 Teamwork & Communication: Working collaboratively to achieve project goals, while learning and growing as a team member.
 
-##🌱 What I'm Currently Learning
+## 🌱 What I'm Currently Learning
 
 I'm currently deepening my knowledge of Machine Learning techniques and algorithms, exploring advanced Python libraries for data analysis, and continuously working on projects to improve my full-stack development skills.
 
