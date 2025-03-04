@@ -31,6 +31,8 @@ Here are some of the key projects I’ve worked on:
 
 - **[Predictive Modeling and Business Metrics Evaluation with Bootstraping](https://github.com/Scarleth6o6/proyecto_pozos_petroleros)**  
    Predictive models applied to the optimization of business metrics using bootstrapping to enhance decision-making in oil well analysis.
+- **[Interconnect Churn Prediction]([https://github.com/Scarleth6o6/proyecto_pozos_petroleros](https://github.com/Scarleth6o6/project_interconnect))**  
+   Data processing, statistical analysis, and predictive modeling to enhance customer retention strategies for a telecommunications company.
 
 
 ## 🎯 Skills and Interests
