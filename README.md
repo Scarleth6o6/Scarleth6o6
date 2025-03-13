@@ -1,4 +1,4 @@
-![Mi Banner](https://raw.github.com/Scarleth6o6/Scarleth6o6/blob/main/mi_banner.png)
+![Mi Banner](https://github.com/Scarleth6o6/Scarleth6o6/blob/main/mi_banner.png)
 
 ## 👩‍💻 About Me
 
