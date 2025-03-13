@@ -1,3 +1,5 @@
+![Mi Banner](https://raw.github.com/Scarleth6o6/Scarleth6o6/blob/main/mi_banner.png)
+
 ## 👩‍💻 About Me
 
 Hello! I'm Scarleth, a Software Developer with a strong passion for Data Science and Machine Learning. I specialize in working with Python, PHP, SQL, C#, Java, and JavaScript. I also have experience with front-end development using HTML and CSS.
