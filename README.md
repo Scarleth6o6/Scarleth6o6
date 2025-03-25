@@ -1,51 +1,39 @@
+
+
+# Hola, soy Scarleth 👋
+
 ![Mi Banner](https://raw.githubusercontent.com/Scarleth6o6/Scarleth6o6/main/mi_banner.png)
+## About me
 
-## 👩‍💻 About Me
+- 🔭 Actualmente estoy trabajando en [nombre del proyecto o área de enfoque].
+- 🌱 Estoy aprendiendo [habilidades o tecnologías que estás adquiriendo].
+- 👯 Busco colaborar en proyectos relacionados con [tus áreas de interés].
+- 💬 Pregúntame sobre [temas en los que tienes experiencia y puedes ayudar].
+- 📫 Cómo contactarme: [tu correo electrónico o enlace a redes sociales profesionales].
+- ⚡ Dato curioso: [un hecho interesante sobre ti].
 
-Hello! I'm Scarleth, a Software Developer with a strong passion for Data Science and Machine Learning. I specialize in working with Python, PHP, SQL, C#, Java, and JavaScript. I also have experience with front-end development using HTML and CSS.
+## Tecnologías y herramientas
 
-I'm constantly learning and staying up to date with the latest technologies to enhance my skills. In addition to technical expertise, I pride myself on my soft skills like problem-solving, teamwork, adaptability, and the ability to work under pressure.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## 🛠️ Technologies I Work With
+## Estadísticas de GitHub
 
-Languages:
+![Estadísticas de GitHub de Tu Nombre](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+## Proyectos destacados
 
-📊 **Data Science & Machine Learning:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+- [Proyecto 1](URL_del_proyecto): Breve descripción del proyecto.
+- [Proyecto 2](URL_del_proyecto): Breve descripción del proyecto.
+- [Proyecto 3](URL_del_proyecto): Breve descripción del proyecto.
 
-🗄️ **Data Base:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+## Conéctate conmigo
 
-⚡ **Others:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](URL_de_tu_LinkedIn)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](URL_de_tu_Twitter)
+[![Correo Electrónico](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu_correo@example.com)
 
-## 📚 Projects
-  
-Here are some of the key projects I’ve worked on:
-
-- **[Predictive Modeling and Business Metrics Evaluation with Bootstraping](https://github.com/Scarleth6o6/proyecto_pozos_petroleros)**  
-   Predictive models applied to the optimization of business metrics using bootstrapping to enhance decision-making in oil well analysis.
-- **[Interconnect Churn Prediction]([https://github.com/Scarleth6o6/proyecto_pozos_petroleros](https://github.com/Scarleth6o6/project_interconnect))**  
-   Data processing, statistical analysis, and predictive modeling to enhance customer retention strategies for a telecommunications company.
-
-
-## 🎯 Skills and Interests
-
-Machine Learning & Data Science: Data exploration, predictive modeling, and business optimization.
-Web Development: Building responsive, dynamic websites using front-end technologies and integrating them with powerful back-end systems.
-Problem Solving: Tackling complex problems with efficient, scalable solutions.
-Teamwork & Communication: Working collaboratively to achieve project goals, while learning and growing as a team member.
-
-## 🌱 What I'm Currently Learning
-
-I'm currently deepening my knowledge of Machine Learning techniques and algorithms, exploring advanced Python libraries for data analysis, and continuously working on projects to improve my full-stack development skills.
-
-Feel free to check out my repositories and contact me if you'd like to collaborate or discuss any of my projects! 
