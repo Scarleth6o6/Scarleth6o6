@@ -43,9 +43,16 @@
 </p>
 ## 🚀 Featured Projects
 
-- 🔹 [**Project 1**](URL_of_project) - Brief description of the project  
-- 🔹 [**Project 2**](URL_of_project) - Brief description of the project  
-- 🔹 [**Project 3**](URL_of_project) - Brief description of the project
+
+- 📊 [**Sentiment Analysis**](https://github.com/Scarleth6o6/sentiment-analysis) – Application of NLP techniques to analyze sentiment in text. Includes data preprocessing and Machine Learning models for emotion classification.
+
+- 📈 [**Prices Prediction**](https://github.com/Scarleth6o6/prices_prediction) – Predictive model based on historical data to estimate future prices. Uses regression and hyperparameter optimization to improve accuracy.
+
+- 📉 [**Insurance Project**](https://github.com/Scarleth6o6/proyecto_seguros) – Analysis of policy and claims data to assess risks and detect patterns in the insurance industry. Implements classification and segmentation models.
+
+
+- ⛽ [**Oil Wells Project**](https://github.com/Scarleth6o6/proyecto_pozos_petroleros) – Data exploration on oil wells to predict performance and optimize production. Includes geospatial analysis and statistical modeling.
+🔗 Repository
   
 ## 🔗 Connect with Me
 
