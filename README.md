@@ -1,6 +1,5 @@
 ![Mi Banner](https://raw.githubusercontent.com/Scarleth6o6/Scarleth6o6/main/mi_banner.png)
-<h1 align="center">Hi, I'm Scarleth San Martin 👋</h1> 
-
+# Hi, I'm Scarleth San Martin 👋
 ## 📌 About Me
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**  
@@ -52,7 +51,6 @@
 
 
 - ⛽ [**Oil Wells Project**](https://github.com/Scarleth6o6/proyecto_pozos_petroleros) – Data exploration on oil wells to predict performance and optimize production. Includes geospatial analysis and statistical modeling.
-🔗 Repository
   
 ## 🔗 Connect with Me
 
