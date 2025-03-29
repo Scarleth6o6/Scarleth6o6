@@ -42,8 +42,8 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 </p>
-## 🚀 Featured Projects
 
+## 🚀 Featured Projects
 
 - 📊 [**Sentiment Analysis**](https://github.com/Scarleth6o6/sentiment-analysis) – Application of NLP techniques to analyze sentiment in text. Includes data preprocessing and Machine Learning models for emotion classification.
 
