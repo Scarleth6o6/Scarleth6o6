@@ -2,10 +2,10 @@
 # Hi, I'm Scarleth San Martin 👋
 ## 📌 About Me
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**  
-- 💻 I have experience with **Python, Java, C#, .NET, JavaScript, SQL, Machine Learnig**  
-- 🔭 I’m currently working on **Something**  
-- 📫 How to reach me: **[smsanmartinlepin@gmail.com](mailto:smsanmartinlepin@gmail.com)**  
+- 🌱 I’m currently learning **Machine Learning, Data Science**, and taking an **AWS course**  
+- 💻 I have experience with **Python, Java, C#, .NET, JavaScript, SQL, Machine Learning**  
+- 🔭 I’m currently working on a **Titanic survivor prediction project** for a Kaggle competition  
+- 📫 How to reach me: **[smsanmartinlepin@gmail.com](mailto:smsanmartinlepin@gmail.com)**
 
   
 ## 🛠️ Tech Stack 
