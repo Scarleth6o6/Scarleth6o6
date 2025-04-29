@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Science**, and taking an **AWS course**  
 - 💻 I have experience with **Python, Java, C#, .NET, JavaScript, SQL, Machine Learning**  
-- 🔭 I’m currently working on a **Titanic survivor prediction project** for a Kaggle competition  
+- 🔭 I’m currently working on a ML model to predict the PCOS, at the EDA phase.
 - 📫 How to reach me: **[smsanmartinlepin@gmail.com](mailto:smsanmartinlepin@gmail.com)**
 
   
