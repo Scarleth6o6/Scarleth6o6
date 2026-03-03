@@ -2,9 +2,9 @@
 # Hi, I'm Scarleth San Martin 👋
 ## 📌 About Me
 
-- 🌱 I’m currently learning **Machine Learning, Data Science**, and taking an **AWS course**  
-- 💻 I have experience with **Python, Java, C#, .NET, JavaScript, SQL, Machine Learning**  
-- 🔭 I’m currently working on a ML model to predict the PCOS, at the EDA phase.
+- 🌱 I’m currently learning **about Cloud services**, taking an **AWS course**  
+- 💻 I have experience with **Python, Java, C#, .NET, JavaScript, SQL, Machine Learning, Power BI and Tableau**  
+- 🔭 I’m currently working on a market analizer proyect, focused on the Edmonton population.
 - 📫 How to reach me: **[smsanmartinlepin@gmail.com](mailto:smsanmartinlepin@gmail.com)**
 
   
