@@ -1,7 +1,7 @@
 ![Mi Banner](https://raw.githubusercontent.com/Scarleth6o6/Scarleth6o6/main/mi_banner.png)
 # 👋 ¡Hola! Soy Scarleth San Martin
 
-Soy una **Data Analyst** y **Data Scientist** en formación con una trayectoria única que combina análisis químico, desarrollo de software y ciencia de datos. Me apasiona usar la programación y los datos para entender el mundo y resolver problemas reales, especialmente en los sectores de salud, tecnología y sostenibilidad.
+Soy un **Cientifica de Datos** con una trayectoria única que combina análisis químico, desarrollo de software y ciencia de datos. Me apasiona usar la programación y los datos para entender el mundo y resolver problemas reales, especialmente en los sectores de salud, tecnología y sostenibilidad.
 
 ## 🚀 Proyectos Destacados
 
@@ -9,7 +9,7 @@ Soy una **Data Analyst** y **Data Scientist** en formación con una trayectoria 
 **Descripción:** Desarrollo completo de un sitio web profesional y dinámico para una constructora chilena. El proyecto incluye un carrusel de proyectos, galería de imágenes con lightbox, modo oscuro, formulario de contacto funcional y un slider de servicios.
 **Tecnologías:** `HTML5` `CSS3` `JavaScript` `PHP`
 **Logros clave:** Diseño responsivo y moderno, integración de mapa interactivo, optimización de imágenes.
-**Enlace:** [https://constructoracasmon.cl](https://constructoracasmon.cl) | [Repositorio](https://github.com/Scarleth6o6/Casmon-web)
+**Enlace:** [https://constructoracasmon.cl](https://constructoracasmon.cl) | 
 
 ### 📊 Market Analyzer Pro - Full Stack Edition
 **Descripción:** Una aplicación web y sistema de análisis de mercado que combina datos demográficos (Censo 2021) con un calendario cultural de múltiples fuentes para generar recomendaciones de negocio personalizadas.
