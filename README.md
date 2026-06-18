@@ -1,59 +1,47 @@
 ![Mi Banner](https://raw.githubusercontent.com/Scarleth6o6/Scarleth6o6/main/mi_banner.png)
-# Hi, I'm Scarleth San Martin 👋
-## 📌 About Me
+# 👋 ¡Hola! Soy Scarleth San Martin
 
-- 🌱 I’m currently learning **about Cloud services**, taking an **AWS course**  
-- 💻 I have experience with **Python, Java, C#, .NET, JavaScript, SQL, Machine Learning, Power BI and Tableau**  
-- 🔭 I’m currently working on a market analizer proyect, focused on the Edmonton population.
-- 📫 How to reach me: **[smsanmartinlepin@gmail.com](mailto:smsanmartinlepin@gmail.com)**
+Soy una **Data Analyst** y **Data Scientist** en formación con una trayectoria única que combina análisis químico, desarrollo de software y ciencia de datos. Me apasiona usar la programación y los datos para entender el mundo y resolver problemas reales, especialmente en los sectores de salud, tecnología y sostenibilidad.
 
-  
-## 🛠️ Tech Stack 
+## 🚀 Proyectos Destacados
 
-### 📊 Data Science  
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-</p>
+### 🏗️ Sitio Web para Constructora Casmon
+**Descripción:** Desarrollo completo de un sitio web profesional y dinámico para una constructora chilena. El proyecto incluye un carrusel de proyectos, galería de imágenes con lightbox, modo oscuro, formulario de contacto funcional y un slider de servicios.
+**Tecnologías:** `HTML5` `CSS3` `JavaScript` `PHP`
+**Logros clave:** Diseño responsivo y moderno, integración de mapa interactivo, optimización de imágenes.
+**Enlace:** [https://constructoracasmon.cl](https://constructoracasmon.cl) | [Repositorio](https://github.com/Scarleth6o6/Casmon-web)
 
-### 🗃️ Database 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+### 📊 Market Analyzer Pro - Full Stack Edition
+**Descripción:** Una aplicación web y sistema de análisis de mercado que combina datos demográficos (Censo 2021) con un calendario cultural de múltiples fuentes para generar recomendaciones de negocio personalizadas.
+**Tecnologías:** `Python` `Pandas` `Flask` `BeautifulSoup` `Power BI`
+**Logros clave:** Desarrollo de una API RESTful, integración de web scraping para eventos internacionales, y un dashboard interactivo en Power BI.
+**Enlace:** [Repositorio](https://github.com/Scarleth6o6/market_analyzer_pro)
 
-### 🔧 Tools  & IDEs
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</p>
+### 🚗 Market Analyzer Original
+**Descripción:** Versión inicial del sistema de análisis de mercado, que sentó las bases para el proyecto Pro. Utiliza datos del censo de Edmonton (2021) para identificar oportunidades comerciales basadas en la demografía y eventos culturales.
+**Tecnologías:** `Python` `Pandas` `Power BI`
+**Logros clave:** Creación de un motor de recomendaciones y un pipeline de datos para Power BI.
+**Enlace:** [Repositorio](https://github.com/Scarleth6o6/market_analyzer)
 
-### 🌐 Frontend  
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
+### Otros Proyectos en mi Portafolio
+Puedes ver más de mi trabajo, incluyendo modelos de **Predicción de Churn** y análisis de **Sentimiento en Reseñas de Películas**, en mi sitio web.
+**Enlace:** [https://scarlethsanmartinportfolio.netlify.app/](https://scarlethsanmartinportfolio.netlify.app/)
 
-### 🛠 Backend 
-<p align="left">
-   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">  
-   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
+## 🛠️ Tecnologías y Herramientas
 
-## 🚀 Featured Projects
+*   **Lenguajes:** Python (Pandas, NumPy, Scikit-learn, Flask), SQL, JavaScript, HTML5, CSS3
+*   **Visualización:** Power BI, Matplotlib
+*   **Herramientas:** Git, GitHub, VS Code, Jupyter Notebooks
+*   **Metodologías:** Análisis de datos, Machine Learning, Web Scraping, Desarrollo de APIs
 
-- 📊 [**Sentiment Analysis**](https://github.com/Scarleth6o6/sentiment-analysis) – Application of NLP techniques to analyze sentiment in text. Includes data preprocessing and Machine Learning models for emotion classification.
+## 📫 Conecta conmigo
 
-- 📈 [**Prices Prediction**](https://github.com/Scarleth6o6/prices_prediction) – Predictive model based on historical data to estimate future prices. Uses regression and hyperparameter optimization to improve accuracy.
+*   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scarlethsan-martin/)  
+*   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smsanmartinlepin@gmail.com)  
+*   **Portafolio Web:** [https://scarlethsanmartinportfolio.netlify.app/](https://scarlethsanmartinportfolio.netlify.app/)
+*   **GitHub:** [https://github.com/Scarleth6o6](https://github.com/Scarleth6o6)
 
-- 📉 [**Insurance Project**](https://github.com/Scarleth6o6/proyecto_seguros) – Analysis of policy and claims data to assess risks and detect patterns in the insurance industry. Implements classification and segmentation models.
+---
 
+⭐ **Si te interesa mi trabajo, ¡no dudes en contactarme!** Siempre estoy abierta a colaboraciones y nuevas oportunidades.
 
-- ⛽ [**Oil Wells Project**](https://github.com/Scarleth6o6/proyecto_pozos_petroleros) – Data exploration on oil wells to predict performance and optimize production. Includes geospatial analysis and statistical modeling.
-  
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scarleth-san-martin)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smsanmartinlepin@gmail.com)  
