@@ -36,7 +36,6 @@ Puedes ver más de mi trabajo, incluyendo modelos de **Predicción de Churn** y 
 
 ## 📫 Conecta conmigo
 
-*   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scarlethsan-martin/)  
 *   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smsanmartinlepin@gmail.com)  
 *   **Portafolio Web:** [https://scarlethsanmartinportfolio.netlify.app/](https://scarlethsanmartinportfolio.netlify.app/)
 *   **GitHub:** [https://github.com/Scarleth6o6](https://github.com/Scarleth6o6)
